@@ -1,0 +1,14 @@
+﻿Построение начато 27.05.2018 1:13:23.
+     1>Проект "C:\Users\user\Desktop\мтуси\3 курс\lab\lab_7\lab_7\lab_7.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "C:\Users\user\Desktop\мтуси\3 курс\lab\lab_7\Debug\".
+       InitializeBuildStatus:
+         Создание "Debug\lab_7.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       FinalizeBuildStatus:
+         Файл "Debug\lab_7.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab_7.lastbuildstate".
+     1>Построение проекта "C:\Users\user\Desktop\мтуси\3 курс\lab\lab_7\lab_7\lab_7.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.09
