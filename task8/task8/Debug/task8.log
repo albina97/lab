@@ -1,0 +1,21 @@
+﻿Построение начато 20.04.2018 16:07:00.
+     1>Проект "C:\Users\user\Desktop\мтуси\3 курс\lab\task8\task8\task8.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "C:\Users\user\Desktop\мтуси\3 курс\lab\task8\Debug\".
+       InitializeBuildStatus:
+         Создание "Debug\task8.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\task8.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\user\Desktop\мтуси\3 курс\lab\task8\Debug\task8.lib" /NOLOGO Debug\stdafx.obj
+         ..\..\lab1\lab1\Debug\task7_func.obj
+         task8.vcxproj -> C:\Users\user\Desktop\мтуси\3 курс\lab\task8\Debug\task8.lib
+       FinalizeBuildStatus:
+         Файл "Debug\task8.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\task8.lastbuildstate".
+     1>Построение проекта "C:\Users\user\Desktop\мтуси\3 курс\lab\task8\task8\task8.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.40
