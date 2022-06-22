@@ -1,0 +1,31 @@
+﻿Построение начато 26.05.2018 18:09:17.
+     1>Проект "C:\Users\user\Desktop\мтуси\3 курс\lab\lab_44\lab_44\lab_44.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab_44.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt task7.c task8.c
+         task8.c
+         task7.c
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Desktop\мтуси\3 курс\lab\lab_44\Debug\lab_44.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\lab_44.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\user\Desktop\мтуси\3 курс\lab\lab_44\Debug\lab_44.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Desktop\мтуси\3 курс\lab\lab_44\Debug\lab_44.lib" /MACHINE:X86 Debug\task1.obj
+         Debug\task2.obj
+         Debug\task3.obj
+         Debug\task4.obj
+         Debug\task5.obj
+         Debug\task6.obj
+         Debug\task7.obj
+         Debug\task8.obj
+         Debug\task9.obj
+         LINK : не найден или не выполнена сборка C:\Users\user\Desktop\мтуси\3 курс\lab\lab_44\Debug\lab_44.exe при последней инкрементной компоновке; выполняется полная компоновка
+         lab_44.vcxproj -> C:\Users\user\Desktop\мтуси\3 курс\lab\lab_44\Debug\lab_44.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\user\Desktop\мтуси\3 курс\lab\lab_44\Debug\lab_44.exe;#1" /manifest Debug\lab_44.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\lab_44.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab_44.lastbuildstate".
+     1>Построение проекта "C:\Users\user\Desktop\мтуси\3 курс\lab\lab_44\lab_44\lab_44.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.84
